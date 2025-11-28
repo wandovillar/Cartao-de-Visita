@@ -1,0 +1,53 @@
+/* Cartão de Visita */
+
+/*Container Principal */
+.cartao-perfil {
+  height: 140px;
+  width: 300px;
+  border-radius: 5px;
+  border-style: groove;
+  background-color: rgb(224, 237, 255);
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.logo{
+    width: 100px;
+    margin: 4px;  
+
+}
+
+.nome {
+  color: #001e4b;
+  padding-left: 3px;
+  padding-right: 3px;
+  margin-top: 2px;
+  margin-left: 2px;
+  margin-right: 2px;
+  margin-bottom: 8px;
+  text-align: justify;
+  font-size: 25px;
+}
+
+.profissao,
+.rede-contato {
+  color: #001e4b;
+  padding-left: 3px;
+  padding-right: 3px;
+  margin-top: 2px;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-bottom: 2px;
+  text-align: justify;
+  font-size: 10px;
+}
+
+.foto-perfil {
+  width: 80px;
+  height: 100px;
+  border-radius: 50px;
+  border: 1px solid #001e4b;
+  position: absolute;
+  top: 20px;
+  left: 222px;
+  margin: 2px;
+}
